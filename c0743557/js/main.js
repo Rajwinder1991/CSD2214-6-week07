@@ -16,5 +16,4 @@ var bear = {
     quote: "",
     maxOffspring: 3,
     noisy: true,
-    deadly: false
 };
